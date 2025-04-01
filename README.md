@@ -1,1 +1,18 @@
-# gardengreens
+- :wave: Hi, I’m 
+@yangs003
+
+- :eyes: I’m interested in ...
+- :seedling: I’m currently learning ...
+- :revolving_hearts:️ I’m looking to collaborate on ...
+- :mailbox: How to reach me ...
+- :smile: Pronouns: ...
+- :zap: Fun fact: ...
+  
+[![Discord](https://img.shields.io/discord/1010915972694044674?color=blue&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/invite/TON_INVITE_LINK)
+## :bar_chart: GitHub Stat
+
+
+
+
+
+
