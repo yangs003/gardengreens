@@ -11,7 +11,7 @@
 [![Discord](https://img.shields.io/discord/1010915972694044674?color=blue&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/invite/TON_INVITE_LINK)
 ## :bar_chart: GitHub Stat
 
-## 🌟 Mes cools stats[![yangs003 Github Stats](https://github-readme-stats.vercel.app/api?username=yangs003&show_icons=true&theme=dracula)
+## 🌟 Mes cools stats ![yangs003 Github Stats](https://github-readme-stats.vercel.app/api?username=yangs003&show_icons=true&theme=dracula)
 
 
 
