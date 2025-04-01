@@ -17,7 +17,7 @@
 
 Technical Skills:
 
-[![VSCode]https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white
+[![VSCode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E
 Group Communication:
 https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white
