@@ -44,3 +44,6 @@ Group Communication:
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 [![GoogleMeet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)
 [![ZOOM](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
+
+
+## 🌟 Top Languages ![yangs003 Github Stats](https://github-readme-stats.vercel.app/api(top-langs/?username=yangs003&layout=compact&theme=dracula)
